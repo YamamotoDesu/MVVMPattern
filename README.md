@@ -1,6 +1,6 @@
 # MVVM  
 
-<img src="https://github.com/YamamotoDesu/UITableViewDiffableDataSource-Swift/blob/main/Gif/RocketSim%20Recording%20-%20iPhone%2012%20-%202021-08-02%2012.25.37.gif" width="300">
+<img src="https://github.com/YamamotoDesu/MVVM/blob/main/MVVM.playground/Resources/MVVM_Diagram.png" width="600" height="300">
 
 ```swift
 import PlaygroundSupport
