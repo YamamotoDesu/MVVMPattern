@@ -138,7 +138,7 @@ viewModel.configure(view)
 
 ```
 
-## Compare with Code Example(MVM)  
+## Compare with Code Example(MVC)  
 ```swift
 import PlaygroundSupport
 import UIKit
